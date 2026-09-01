@@ -1,217 +1,263 @@
-# Hey, I'm Kumar Shubham 👋
+# 👋 Hey, I'm Kumar Shubham
 
-### I build things. Sometimes software. Sometimes hardware. Usually both.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=800&color=F7C843&center=true&vCenter=true&width=750&lines=I+build+things.;Software+%2B+Hardware+%2B+Cloud+%2B+AI;If+I+don't+know+it%2C+I'll+learn+it.;If+it+doesn't+exist%2C+I'll+build+it." />
+</p>
 
-I'm a developer, builder, and technology enthusiast from India.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:F7C843,100:111111&height=120&section=header" />
+</p>
 
-I don't really fit into a single technology or job title.
-
-If a problem needs a web application, I'll build it.
-If it needs an API, I'll build it.
-If it needs a mobile app, I'll build it.
-If it needs a physical button connected to a server, I'll probably build that too.
-And if I don't know how to build it yet — **I'll learn.**
+<p align="center">
+  <a href="https://github.com/kumarshubham01">
+    <img src="https://img.shields.io/github/followers/kumarshubham01?label=Followers&style=for-the-badge&color=F7C843&labelColor=111111" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kumarshubham01&style=for-the-badge&color=F7C843&labelColor=111111&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## 🧠 How I Think
+## 🧠 Who am I?
 
-I don't start with:
+I'm **Kumar Shubham** — a developer, builder, and technology enthusiast.
 
-> *"Which technology should I use?"*
+I don't really believe in staying inside one technology.
+
+I like computers in general.
+
+So my curiosity naturally takes me from:
+
+```text
+        SOFTWARE
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+   BACKEND      MOBILE
+     │           │
+     └─────┬─────┘
+           ▼
+        NETWORKS
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+   HARDWARE      CLOUD
+     │           │
+     └─────┬─────┘
+           ▼
+           AI
+           │
+           ▼
+       AUTOMATION
+```
+
+And sometimes all of them end up in the **same project**.
+
+---
+
+## ⚡ My Philosophy
+
+I don't start by asking:
+
+```text
+"What technology should I use?"
+```
 
 I start with:
 
-> **"What is the problem, and what is the simplest thing that can solve it?"**
+```text
+"What problem are we trying to solve?"
+```
 
-The technology comes after that.
+Then I figure out the rest.
 
-That's why my interests are all over the place.
-
-`Software` → `Hardware` → `Networks` → `Cloud` → `AI` → `Security` → `Automation`
-
-I enjoy understanding how all of these pieces fit together.
+> ### **If it needs a physical button connected to a server, I'll probably build that too.**
+>
+> **Don't forget the colors.**
+>
+> **And definitely don't forget the animations.** 😎
 
 ---
 
-## 🔨 Things I Like Building
+## 🔨 What I Build
 
-```text
-        IDEA
-          │
-          ▼
-      ┌─────────┐
-      │ PROBLEM  │
-      └────┬────┘
-           │
-           ▼
-    ┌──────────────┐
-    │   BUILD IT   │
-    └──────┬───────┘
-           │
-     ┌─────┼─────┐
-     ▼     ▼     ▼
-   CODE  HARDWARE  INFRA
-     │     │       │
-     └─────┼───────┘
-           ▼
-       REAL WORLD
-```
-
-Some of the things I've worked with:
-
-* 🌐 Web & Backend Systems
-* 📱 Mobile Applications
-* 🏥 Real-world automation systems
-* 💳 Payment integrations
-* 🔌 Hardware & IoT
-* 🤖 AI & Automation
-* 🔐 Cybersecurity
-* ☁️ Cloud & DevOps
-* ⚡ APIs & distributed systems
-* 🧰 Developer tools
+| Area              | Things I enjoy                          |
+| ----------------- | --------------------------------------- |
+| 🌐 Web            | Applications, dashboards, SaaS          |
+| ⚙️ Backend        | APIs, queues, automation, integrations  |
+| 📱 Mobile         | Flutter applications                    |
+| 🔌 Hardware       | Arduino, IoT, network-connected devices |
+| 🤖 AI             | AI applications & automation            |
+| 🔐 Security       | Cybersecurity & ethical hacking         |
+| ☁️ Infrastructure | Linux, servers, Docker, cloud           |
+| 💳 FinTech        | Payment gateway integrations            |
+| 🧠 Systems        | Connecting all the pieces together      |
 
 ---
 
 ## 🧰 My Toolbox
 
-### Languages
+### 💻 Languages
 
-`C` `C++` `Python` `PHP` `JavaScript` `Dart`
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=F7C843)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge\&logo=c%2B%2B\&logoColor=F7C843)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=F7C843)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge\&logo=php\&logoColor=F7C843)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7C843)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge\&logo=dart\&logoColor=F7C843)
 
-### Backend
+### 🚀 Frameworks
 
-`Laravel` `CodeIgniter` `Node.js` `Express` `FastAPI`
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge\&logo=laravel\&logoColor=F7C843)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=F7C843)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=F7C843)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge\&logo=flutter\&logoColor=F7C843)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi\&logoColor=F7C843)
 
-### Frontend & Mobile
+### ☁️ Infrastructure
 
-`React` `Flutter`
-
-### Data
-
-`MySQL` `MariaDB` `MongoDB` `PostgreSQL` `Firebase`
-
-### Infrastructure
-
-`Linux` `Docker` `Nginx` `Apache` `Google Cloud`
-
-### Other things I enjoy
-
-`Arduino` `Networking` `APIs` `Automation` `Security` `AI/ML`
-
----
-
-## 🏗️ I Prefer Building Real Things
-
-A lot of my development work happens privately on our own infrastructure and Git server, so **GitHub doesn't tell the full story of what I've built**.
-
-I'm changing that.
-
-I'm gradually moving more experiments, useful tools, learning projects, and open-source work here.
-
-So this profile is less:
-
-> *"Look how many commits I have."*
-
-and more:
-
-> **"Here's what I'm building next."**
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=F7C843)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=F7C843)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge\&logo=nginx\&logoColor=F7C843)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F7C843)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge\&logo=googlecloud\&logoColor=F7C843)
 
 ---
 
-## 🚀 Currently Building & Exploring
+## 🏗️ Building in Public
 
-I'm particularly interested in the intersection of:
+Most of my professional development happens on **our own private Git infrastructure**.
 
-**AI × Automation × Software × Real World Problems**
+That means:
 
-I'm also exploring how small teams can build surprisingly capable products by combining:
+**GitHub activity ≠ everything I build.**
 
-* AI
-* APIs
-* Automation
-* Cloud infrastructure
-* Open-source software
-* Hardware
+I'm now changing that.
+
+This profile is becoming my place to share:
+
+```text
+Experiments
+    ↓
+Learning
+    ↓
+Tools
+    ↓
+Open Source
+    ↓
+Interesting Ideas
+    ↓
+Things that hopefully become useful
+```
+
+So don't judge my development journey purely by the contribution graph.
+
+**I'm just getting started here. 🚀**
 
 ---
 
-## 🧪 My Favourite Kind of Project
+## 🧪 The Kind of Projects I Like
 
-Something that starts with:
+My favourite projects usually start with a sentence like:
 
 > **"Can we actually build this?"**
 
-and ends with:
+Then comes the rabbit hole.
+
+Hardware.
+
+Software.
+
+APIs.
+
+Networks.
+
+Servers.
+
+Security.
+
+Automation.
+
+Eventually...
 
 > **"Holy shit, it works."**
 
-Those are the projects I enjoy the most.
+That's the part I enjoy.
 
 ---
 
-## 🌱 Open Source
+## 🌱 Currently Exploring
 
-I'm becoming more active on GitHub and looking forward to collaborating with people who like building things rather than just talking about them.
-
-If you're working on something interesting in:
-
-`AI` · `Automation` · `SaaS` · `Cybersecurity` · `IoT` · `Developer Tools` · `Backend` · `Web` · `Mobile`
-
-I'd love to hear about it.
-
-**Let's build something.**
-
----
-
-## 🧭 A Few Things I Believe
-
-> **Learn by building.**
-
-> **Don't be afraid to work outside your comfort zone.**
-
-> **A problem doesn't care what technology you know.**
-
-> **Good engineering is about solving the problem, not showing off the stack.**
-
-> **If something doesn't exist, sometimes the answer is to build it yourself.**
+```text
+🤖 AI
+⚡ Automation
+🧠 Intelligent Systems
+🌐 SaaS
+🔐 Cybersecurity
+🔌 IoT
+☁️ Cloud & DevOps
+🛠️ Developer Tools
+🌍 Open Source
+```
 
 ---
 
-## 👨‍💻 About This Profile
+## 🤝 Open Source
 
-This GitHub is where I'm starting to **build in public**.
+I'm becoming more active in the open-source community.
 
-You'll find experiments, open-source projects, things I'm learning, things I'm breaking, and hopefully a few things that turn out to be genuinely useful.
+If you're building something interesting around:
 
-The activity here may not always tell the story of how much I'm building.
+**AI · Automation · SaaS · IoT · Cybersecurity · Developer Tools · Backend · Web · Mobile**
 
-But the repositories will.
+I'd love to collaborate.
+
+Don't worry if the idea sounds crazy.
+
+Those are usually the interesting ones.
 
 ---
 
-## 🤝 Want to Build Something?
+## 📊 GitHub
 
-I'm always open to interesting ideas, collaborations, and open-source projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarshubham01&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=F7C843&icon_color=F7C843&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshubham01&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=F7C843&text_color=FFFFFF" height="170" />
+</p>
 
-If you have something you're working on and think I might be able to contribute:
+---
 
-**Say hello. 👋**
+## 🐍 The Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 The Goal
+
+Not to know every technology.
+
+Not to have the biggest GitHub profile.
+
+Not to collect programming languages.
+
+Just to keep getting better at this:
+
+> ### **Taking an idea → understanding the problem → building the solution.**
+
+And hopefully building things that are actually useful along the way.
 
 ---
 
 <p align="center">
-
-### Keep building.
-
-**Keep learning.**
-
-**Keep breaking things.**
-
-**Keep figuring out how to make them work.**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:F7C843,100:111111&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <sub>© Kumar Shubham • Built with curiosity.</sub>
+  <b>Build. Break. Learn. Fix. Repeat.</b>
+</p>
+
+<p align="center">
+  <sub>Made with curiosity, caffeine and an unreasonable number of ideas.</sub> ☕
 </p>
