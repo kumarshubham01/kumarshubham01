@@ -26,7 +26,7 @@ SOFTWARE → BACKEND & MOBILE → NETWORKS → HARDWARE & CLOUD → AI → AUTOM
 
 And sometimes all of them end up in the same project.
 
-🎓 Computer Science & Engineering — **BPMCE, Madhepura**
+🎓 Computer Science & Engineering — **B.Tech (CSE)**
 
 ---
 
